@@ -9,3 +9,11 @@ acc = .4375
 	max-depth = 60
 	test_size = 0.18
 	random_state = 3
+
+
+
+irisTree
+acc = .9259
+	max-depth = 60
+	test_size = 0.18
+	random_state = 3
