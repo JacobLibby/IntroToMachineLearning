@@ -8,7 +8,8 @@ This repo is split into 3 main sections:
   1) Decision Tree
   2) Support Vector Machine (SVM)
   3) KMeans
-  and _4) DBSCAN -- UNFINISHED_
+  and 
+  _4) DBSCAN -- UNFINISHED_
 
 
 For each of these ML approaches, I created models for two datasets:
