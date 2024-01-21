@@ -2,7 +2,7 @@
 A Culmination Of An Independent Study In Machine Learning
 
 
-During my Senior year at Wheaton College, MA, I conducted an independent study in Machine Learning with Mark LeBlanc. During this course, we dove into a large survey of Machine Learning techniques, and developed a codebase for future students to experiment with and learn from.
+During my Senior year at Wheaton College, MA, I conducted an independent study in Machine Learning with Mark LeBlanc, Wheaton College's Computer Science Department Chair. During this course, we dove into a large survey of Machine Learning techniques, and developed a codebase for future students to experiment with and learn from.
 
 This repo is split into 3 main sections:
   1) Decision Tree
@@ -23,10 +23,17 @@ See related work:
 
 The Iris dataset contains 150 instances of 3 seperate species of Iris (Iris-virginica, Iris-setosa, and Iris-versicolor). Each instance has 4 attributes recorded, which are the sample's sepal-length, sepal-width, petal-length, and petal-width (for more information about sepals and petals, check out this website for some additional background info: https://davesgarden.com/guides/articles/view/3152). Each of the values in the dataset is a float of the form 'X.X' with one digit after and one digit before the period.
 
-
+## Technologies, Tools, and Languages Used:
+* Python
+  - sci-kit learn
+  - pandas
+  - numpy
+  - matplotlib
+  - Regular Expressions (regex - "re" library)
+* Jupyter Notebook
 
 ## Steps to run:
 
 1) Install Jupyter Notebook https://jupyter.org/install
-2) git clone repo
+2) git clone the repo
 3) play around with notebooks, learn, and have fun
