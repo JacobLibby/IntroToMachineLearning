@@ -8,7 +8,7 @@ DBSCAN "groups together points that are closely packed together (points with man
 I haven't even mentioned the other (hopefully as exciting to you as it is to me) advantage of DBSCAN. In K-Means, you have to explicitly declare the number of clusters to group data, however DBSCAN automatically registers not only outliers, but also the number of clusters that should be created!
 
 To illustrate this, here is an image from the DBSCAN wiki that shows a plot analyzed with DBSCAN:
-![Plotted data, grouped into two groups (blue, green) and numerous outliers](https://en.wikipedia.org/wiki/DBSCAN#/media/File:DBSCAN-density-data.svg)
+![Plotted data, grouped into two groups (blue, green) and numerous outliers](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DBSCAN-density-data.svg/1280px-DBSCAN-density-data.svg.png)
 
 Two clusters are found, notated as blue and green, with outliers being colored gray. Running this data through a different clustering algorithm would likely result in these clearly visible two groups being possibly split into more than two, or the clusters being drawn differently to include the outlier points.
 
